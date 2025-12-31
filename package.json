@@ -1,5 +1,5 @@
 {
-  "name": "@team_varmagl/contracts",
+  "name": "@newmaster/contracts",
   "version": "1.0.0",
   "description": "Protobuf definitions and generated Typescript types.",
   "scripts": {
