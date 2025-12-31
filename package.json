@@ -1,7 +1,7 @@
 {
   "name": "@team_varmag/contracts",
   "version": "1.0.0",
-  "description": "Protobuf definitions and generated Typescript types.",
+  "description": "Proto definitions and generated Typescript types.",
   "scripts": {
     "generate": "protoc -I ./proto ./proto/*.proto --ts_proto_out=./gen --ts_proto_opt=nestJs=true,package=omit"
   },
